@@ -1,6 +1,6 @@
 # GC9x DC power meter TTL readout
 
-The GC90 power meter can measure DC power up to 200V and 20A. It has a TTL port (inside a Micro USB connector). There's also a variant for higher currents, using and external shunt, called GC91.
+The GC90 power meter ([AliExpess](https://www.aliexpress.com/item/32994927495.html)) can measure DC power up to 200V and 20A. It has a TTL port (inside a Micro USB connector). There's also a variant for higher currents, using and external shunt, called GC91.
 
 ## Protocol
 * Baud rate: 19200
